@@ -1,0 +1,7 @@
+Admin User: 
+    Email: admin@mail.com
+    password: admin1234
+
+Regular User: 
+    Email: riggs@gmail.com
+    password: riggs1234
